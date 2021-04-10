@@ -1,4 +1,4 @@
-# PlayList OverTheWire Bandit
+# PlayList OverTheWire Natas
 
 *Material que imparto en Youtube sobre Seguridad Web en Servidores aplicado a CTF*
 
